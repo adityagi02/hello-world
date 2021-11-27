@@ -1,1 +1,1 @@
-Hi,this is first file.I'm now using git.
+Hi,this is first file.I'm now using git.This is just a sample file.
